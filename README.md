@@ -1,10 +1,12 @@
 # siparisTakipUygulamasi
 
-Resim dosyaları + db dosyası + python dosyası aynı klasörde bulunmalıdır.
+## GİRİŞ 
 
 kullanıcı adı : yonetici / kullanici
 
 şifre : 123
+
+Resim dosyaları + db dosyası + python dosyası aynı klasörde bulunmalıdır.
 
 www.google.com yazılı yere web site adresi
 
