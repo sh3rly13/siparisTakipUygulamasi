@@ -16,13 +16,15 @@ Giriş yaptıktan sonra Ana Ekran açılır </br>
 </br>
 ![anaekran](https://user-images.githubusercontent.com/44618036/83196818-30194800-a145-11ea-89c0-096fbc6bb82e.PNG)</br>
 Sol panelden wordpress yönetici ara yüzüne giriş yapılır. </br>
-
+</br>
+### Uyarılar 
 **Resim dosyaları + db dosyası + python dosyası aynı klasörde bulunmalıdır.** </br>
 www.google.com yazılı yere web site adresi yazılmalıdır. </br>
 WooCommerce user ve Secret key girildikten sonra otomatik sipariş işlemi tamamlanır...  </br>
 **Aksi takdirde çalışmaz** </br>
 Belirtilen bilgileri doldurduktan sonra tam anlamıyla çalışmaktadır. </br>
 Wordpress woocommerce ekli web sitesi gereklidir. </br>
+</br>
 ### TÜM DOSYALAR GÖRSELDEKİ GİBİ TEK KLASÖR İÇERİSİNDE OLMALIDIR
 ![tekdosya](https://user-images.githubusercontent.com/44618036/83197168-b9c91580-a145-11ea-949c-47b849cd0da6.PNG)</br>
 **Aksi takdirde hata verebilir..** </br>
