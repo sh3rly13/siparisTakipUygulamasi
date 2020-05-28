@@ -4,6 +4,9 @@
 
 kullanıcı adı : **yonetici** / **kullanici** </br>
 şifre : **123** </br>
+Giriş yaptıktan sonra Ana Ekran açılır </br>
+
+wordpress yönetici paneline giriş yapılır. </br>
 
 **Resim dosyaları + db dosyası + python dosyası aynı klasörde bulunmalıdır.** </br>
 www.google.com yazılı yere web site adresi yazılmalıdır. </br>
