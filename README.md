@@ -1,6 +1,8 @@
 # Basit Siparis Takip Uygulamasi
 
-## GİRİŞ 
+## GİRİŞ
+
+![girisEkrani](https://user-images.githubusercontent.com/44618036/83196708-09f3a800-a145-11ea-98c6-986bbbfc7254.PNG)
 
 kullanıcı adı : **yonetici** / **kullanici** </br>
 şifre : **123** </br>
