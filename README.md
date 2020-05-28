@@ -2,9 +2,9 @@
 
 ## GİRİŞ 
 
-kullanıcı adı : yonetici / kullanici
+kullanıcı adı : **yonetici** / **kullanici**
 
-şifre : 123
+şifre : **123**
 
 Resim dosyaları + db dosyası + python dosyası aynı klasörde bulunmalıdır.
 
