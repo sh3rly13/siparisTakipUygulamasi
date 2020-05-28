@@ -8,8 +8,8 @@ Uygulamanın nasıl kullanıldığına dair Detaylı bilgi **beniokuyunuz** dosy
 ## GİRİŞ
 
 ![girisEkrani](https://user-images.githubusercontent.com/44618036/83196708-09f3a800-a145-11ea-98c6-986bbbfc7254.PNG)</br>
-kullanıcı adı : **yonetici** / **kullanici** </br>
-şifre : **123** </br>
+kullanıcı adı : ***yonetici*** / ***kullanici*** </br>
+şifre : ***123*** </br>
 </br>
 ![wordpressgiris](https://user-images.githubusercontent.com/44618036/83197059-8e462b00-a145-11ea-9c13-68f996de5ccc.PNG)</br>
 Giriş yaptıktan sonra Ana Ekran açılır </br>
